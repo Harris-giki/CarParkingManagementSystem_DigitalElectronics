@@ -35,8 +35,6 @@ The system utilizes a comprehensive digital logic design approach:
 - **Input Processing:** 555 timers ensure clean, debounced signals from laser sensors.
 - **Alert System:** Combinational logic triggers LED and buzzer when capacity is reached.
 
-### Component Implementation Labelled
-![Component Implementation Labelled](hardware_labelled.jpg)
 ## 🛠️ Development Tools
 - **Simulation:** Proteus 8.13 Pro
 - **Hardware Prototyping:** Breadboard/PCB implementation
