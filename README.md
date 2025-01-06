@@ -36,7 +36,7 @@ The system utilizes a comprehensive digital logic design approach:
 - **Alert System:** Combinational logic triggers LED and buzzer when capacity is reached.
 
 ### Component Implementation Labelled
-![Project Circuit Diagram](hardware_labelled.png)
+![Component Implementation Labelled](hardware_labelled.png)
 ## 🛠️ Development Tools
 - **Simulation:** Proteus 8.13 Pro
 - **Hardware Prototyping:** Breadboard/PCB implementation
