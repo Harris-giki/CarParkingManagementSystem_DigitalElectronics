@@ -61,6 +61,8 @@
         <li><strong>Simulation:</strong> Proteus 8.13 Pro</li>
         <li><strong>Hardware Prototyping:</strong> Breadboard/PCB implementation</li>
     </ul>
+    <h2>Project Ciruit Diagram</h2>
+    ![Project Ciruit Diagram](Circuit_Diagram_Complete.bmp)
     <h2>🎯 Key Achievements</h2>
     <ul>
         <li>Successful integration of laser detection with digital counting system</li>
