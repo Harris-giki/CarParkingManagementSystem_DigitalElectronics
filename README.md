@@ -28,7 +28,6 @@ This project implements an automated car parking management system using digital
 - Resistors (330Ω for display, 10kΩ for pull-up)
 - Decoupling capacitors (0.1μF)
 - 5V DC power supply
-
 ## ⚡ Implementation Details
 The system utilizes a comprehensive digital logic design approach:
 - **Counter Logic:** 74193 IC handles bi-directional counting based on sensor inputs.
@@ -36,6 +35,8 @@ The system utilizes a comprehensive digital logic design approach:
 - **Input Processing:** 555 timers ensure clean, debounced signals from laser sensors.
 - **Alert System:** Combinational logic triggers LED and buzzer when capacity is reached.
 
+### Component Implementation Labelled
+![Project Circuit Diagram](hardware_labelled.png)
 ## 🛠️ Development Tools
 - **Simulation:** Proteus 8.13 Pro
 - **Hardware Prototyping:** Breadboard/PCB implementation
